@@ -2,3 +2,7 @@
 GeoLite2 ASN, City, and Country databases for IP geolocation。
 
 用于IP地理定位的GeoLite2网络、城市和国家数据库。
+
+</h>GeoLite2-ASN.mmdb</h>
+GeoLite2-City.mmdb
+GeoLite2-Country.mmdb
