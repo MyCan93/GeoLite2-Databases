@@ -6,7 +6,7 @@ GeoLite2网络、城市和国家数据库用于IP地址定位。
 
   [下载 GeoLite2-ASN.mmdb](https://github.com/MyCan93/GeoLite2-Databases/releases/download/GeoLite2/GeoLite2-ASN.mmdb) 
 
-  `https://github.com/MyCan93/GeoLite2-Databases/releases/download/GeoLite2/GeoLite2-ASN.mmdb`
+  `https://raw.githubusercontent.com/MyCan93/GeoLite2-Databases/main/GeoLite2-ASN.mmdb`
 
 - **GeoLite2-City.mmdb**  - 包括城市级别的地理信息。
 
