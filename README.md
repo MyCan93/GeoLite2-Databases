@@ -14,7 +14,8 @@ GeoLite2网络、城市和国家数据库用于IP地址定位。
 
   `https://github.com/MyCan93/GeoLite2-Databases/releases/download/GeoLite2/GeoLite2-City.mmdb`
 
-- **GeoLite2-Country.mmdb**  - 提供国家级的地理定位数据。
+- **GeoLite2-Country.mmdb**   - 提供国家级的地理数据。
+
   [下载 GeoLite2-Country.mmdb](https://github.com/MyCan93/GeoLite2-Databases/releases/download/GeoLite2/GeoLite2-Country.mmdb) 
 
   `https://github.com/MyCan93/GeoLite2-Databases/releases/download/GeoLite2/GeoLite2-Country.mmdb`
