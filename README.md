@@ -1,6 +1,6 @@
 # GeoLite2-Databases
 
-GeoLite2网络、城市和国家数据库用于IP地址定位。
+GeoLite2用于城市和国家数据库用于IP地址定位。
 
 - **GeoLite2-ASN.mmdb**  - 提供自治系统编号（ASN）信息，适用于追踪网络的组织结构。
 
